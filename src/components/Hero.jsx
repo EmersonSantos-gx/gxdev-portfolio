@@ -18,7 +18,7 @@ export default function Hero() {
         <span className="badge">// TECNOLOGIA • DESIGN • DESENVOLVIMENTO</span>
         <h1>Olá, eu sou<br /><Gt>Emerson Santos</Gt></h1>
         <p className="sub">Estudante Desenvolvimento Full-Stack &amp; Mobile App</p>
-        <p className="slogan">Do protótipo ao código: construindo apps e plataformas web completas.</p>
+        <p className="slogan">Do protótipo ao código: construindo apps e Landing Pages completas.</p>
         <div className="cta">
           <a className="btn bp" href="#projetos">Ver Projetos</a>
           <a className="btn bs" href={LINKS.cv} download>Baixar CV</a>
