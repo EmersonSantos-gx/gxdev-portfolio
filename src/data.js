@@ -12,7 +12,7 @@ export const LINKS = {
   linkedin: 'https://www.linkedin.com/in/emsantosdev/',
   github: 'https://github.com/EmersonSantos-gx',
   githubRepos: 'https://github.com/EmersonSantos-gx?tab=repositories',
-  cv: '/cv-emerson-santos.pdf', // coloque o PDF em /public
+  cv: 'https://lattes.cnpq.br/5981073198461558', // coloque o PDF em /public
 }
 
 export const NAV = [
@@ -24,7 +24,7 @@ export const NAV = [
 export const SKILLS = [
   ['React.js', 'Re', 15], ['React Native', 'RN', 12], ['Figma', 'Nx', 30],
   ['JavaScript', 'JS', 15], ['Node.js', 'No', 5], ['Tailwind CSS', 'Tw', 15],
-  ['PostgreSQL / Supabase', 'Pg', 10], ['Python', 'Py', 5], ['Git & GitHub', 'Gt', 10],
+  ['MySQL', 'My', 10], ['JAVA', 'Jv', 5], ['Git & GitHub', 'Gt', 10],
 ]
 
 // Preencha com seus repositórios: { name, desc, lang }
